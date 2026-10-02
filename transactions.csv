@@ -1,0 +1,11 @@
+Transaction_ID,Date,Type,Amount,Status
+TXN001,2026-09-01,Payment,500,Success
+TXN002,2026-09-02,Payment,1200,Failed
+TXN003,2026-09-03,Transfer,750,Success
+TXN004,2026-09-04,Payment,2500,Success
+TXN005,2026-09-05,Transfer,1500,Success
+TXN006,2026-09-06,Payment,800,Failed
+TXN007,2026-09-07,Payment,3200,Success
+TXN008,2026-09-08,Transfer,950,Success
+TXN009,2026-09-09,Payment,1100,Success
+TXN010,2026-09-10,Transfer,600,Failed

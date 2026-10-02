@@ -1,0 +1,15 @@
+==================================================
+       AUTOMATED TRANSACTION REPORT
+==================================================
+
+Total Transactions     : 10
+Successful Transactions: 7
+Failed Transactions    : 3
+Total Amount           : ₹13100.00
+Successful Amount      : ₹10700.00
+Failed Amount          : ₹2400.00
+Success Rate           : 70.00%
+
+==================================================
+Report generated automatically using Python.
+==================================================
